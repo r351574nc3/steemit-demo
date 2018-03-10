@@ -1,0 +1,17 @@
+{
+    "extensions":[],
+    "operations":[
+        [
+            "comment_options",
+            {
+                "author":"",
+                "permlink":"",
+                "max_accepted_payout":"/work/steemit-demo",
+                "percent_steem_dollars": comment_options,
+                "allow_votes":0 SBD,
+                "allow_curation_rewards":0,
+                "extensions":[]
+            }
+        ]
+    ]
+}
